@@ -20,3 +20,4 @@ It uncovers insights about employee roles, experience, compensation, and workfor
 - Stacked bar charts for contract types
 - Bonus vs experience trends
 - Department-wise employee pie chart
+-Line Graph for Annual bonus as per the Experience in company
